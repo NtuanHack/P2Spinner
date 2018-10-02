@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">P2Spinner</string>
+    <string-array name="german_familienname">
+        <item>Fischer</item>
+        <item>Bauer</item>
+        <item>Scheider</item>
+        <item>Jager</item>
+        <item>Muller</item>
+        <item>Schulz</item>
+        <item>Neuman</item>
+        <item>Schwarz</item>
+        <item>Lange</item>
+        <item>Kohler</item>
+        <item>Schumacher</item>
+    </string-array>
+</resources>
